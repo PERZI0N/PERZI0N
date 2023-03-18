@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PERZI0N my real name is Vaidik Chhirolya
-- 👀 I’m interested in machine learning and coding
-- 🌱 I’m currently learning generative adversial networks for novel view synthesis
-- 💞️ I’m looking to contribute to this platform as much as I can
+- Hello I am Vaidik Chhirolya Currently persuing my engineering at VIT Vellore
+- I have experience in Java and Python including libraries like sklearn, torch, pandas, numpy etc.
+- I have worked with a lot of Machine learning and Deep learning projects.
+- I have worked on Generative Adversial Networks and GANs for my internship.
 - 📫 you can reach me on my e-mail vaidik.chhirolya1@gmail.com
 
 <!---
