@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaidik Chhirolya</h1>
 <h3 align="center">I have aquired and sharpened my development skills by working on various projects over a period of time. The projects included various tech stacks which included projects working on ReactJs, NextJs, RestFull API, MongoDB, NodeJs, Golang etc. Currently working as a full stack web developer at Japan Grab Technologies and have been a contributor on various projects online. I have also worked as a deep learning research intern at IISc Banglore, where I worked exclusively in the field of GANs. I am trustworthy, creative, and an effective conmmunicator. I fondly anticipate working in a challenging yet rewarding organization to attain its visions for personal growth.</h3>
 
-- 🔭 Full stack developer **Japan Grab Technologies**
+- 🔭 Software Engineer **NetApp **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
